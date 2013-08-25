@@ -1,6 +1,8 @@
 # Edit this Gemfile to bundle your application's dependencies.
 source 'https://rubygems.org'
 
+ruby '1.9.1'
+
 gem "rails", "3.2.14"
 
 # Get the absolute path of this Gemfile so the includes below still work
