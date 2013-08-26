@@ -62,8 +62,6 @@ gem 'clockwork'
 # Test Coverage
 gem 'simplecov', :require => false, :group => :test
 
-gem 'rails-backup-migrate'
-
 gem 'strong_parameters'
 
 gem 'kaminari'  # Pagination
