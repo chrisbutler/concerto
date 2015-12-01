@@ -1,4 +1,6 @@
 #Concerto 2 Digital Signage System
+
+[![Join the chat at https://gitter.im/chrisbutler/concerto](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/chrisbutler/concerto?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Full Installation Instructions: [https://github.com/concerto/concerto/wiki/Installing-Concerto-2](http://goo.gl/4YIzK)
 
 ##What is Concerto?
